@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+waitress
+psycopg2-binary
